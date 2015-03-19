@@ -1,5 +1,5 @@
 /*
- * example-HMC5883L.c
+ * hmc5883l-example.c
  *
  *  Created on: 01 Sept 2012
  *      Author: Jagun Kwon
